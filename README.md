@@ -1,7 +1,26 @@
 # 📊 Electronic Sales Performance Dashboard  
 **YTD, YoY & Profit Analysis (2011–2014)**
 
----
+
+## Table of Contents
+
+- [Project Background](#project-background)
+- [Key Areas of Analysis](#key-areas-of-analysis)
+- [Data Source](#data-source)
+- [Data Structure & Initial Checks](#data-structure--initial-checks)
+- [Data Exploration & Preparation](#data-exploration--preparation)
+- [Executive Summary](#executive-summary)
+- [Overview of Findings](#overview-of-findings)
+- [Insights Deep Dive](#insights-deep-dive)
+  - [Sales Performance & Time Trends](#sales-performance--time-trends)
+  - [Channel Performance & Growth Momentum](#channel-performance--growth-momentum)
+  - [Product Category Contribution & Profitability](#product-category-contribution--profitability)
+  - [Geographic (Zone) Performance](#geographic-zone-performance)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+- [Key Takeaway](#key-takeaway)
+- [Author](#author)
+
 
 ## Project Background
 
@@ -11,10 +30,11 @@ As a **Data Analyst embedded within the business**, my responsibility was to hel
 
 Existing reporting focused largely on topline revenue, with limited visibility into **margin behavior**, **growth quality**, and **performance drivers**. This project was initiated to close that gap by delivering a **clear, interactive dashboard** that combines **time intelligence, YoY variance, and profitability analysis** in one coherent analytical view.
 
-The dataset used for this analysis can be found here [Dataset](<(https://github.com/Rofiat-Adebayo/Sales-Performance-Dashboard-Scale-vs-Growth-Analysis/blob/main/Electronic%20Sales_e6c80a7a8f22809f1b33e72ae32f09d4.xlsx)>)
+The dataset used for this analysis can be found here:
+[Dataset](<https://github.com/Rofiat-Adebayo/Sales-Performance-Dashboard-Scale-vs-Growth-Analysis/blob/main/Electronic%20Sales_e6c80a7a8f22809f1b33e72ae32f09d4.xlsx>)
 
 Data exploration and validation were performed directly in Power BI and can be reviewed here:  
-[Data Preparation & Validation](<(https://github.com/Rofiat-Adebayo/Sales-Performance-Dashboard-Scale-vs-Growth-Analysis/blob/main/Electronic%20Sales_e6c80a7a8f22809f1b33e72ae32f09d4.xlsx)>)
+[Data Preparation & Validation](<https://github.com/Rofiat-Adebayo/Sales-Performance-Dashboard-Scale-vs-Growth-Analysis/blob/main/Electronic%20Sales_e6c80a7a8f22809f1b33e72ae32f09d4.xlsx>)
 
 
 [View the Interactive Power BI Dashboard](<https://app.powerbi.com/links/LJb5m9s2mq?ctid=37d7521a-5079-48af-9131-4ac2cb6f1e3a&pbi_source=linkShare>)
@@ -31,7 +51,7 @@ Insights and recommendations are provided across the following areas:
 - **Product Category Contribution & Profitability**
 - **Geographic (Zone) Performance**
 
----
+
 
 ## Data Source
 
@@ -65,19 +85,15 @@ While overall sales and profit increased during the analysis period, **performan
 
 This dashboard enables leadership to quickly assess **performance health**, identify **growth opportunities**, and understand **where margin optimization is required**.
 
+<img width="536" height="352" alt="SALES PERFORMANCE" src="https://github.com/user-attachments/assets/20206a59-5c1b-48eb-9105-d87bddd11292" />
 
-<img width="552" height="372" alt="ELECTRONICSALE PERFORMANCE PBIX" src="https://github.com/user-attachments/assets/12d44a4e-feec-4a0f-93ef-eb68a0f40a70" />
-
----
 
 ## Overview of Findings
-
 
 1. **Revenue scale and growth momentum are not always aligned**, requiring separate but connected analysis.
 2. **Profit margins vary materially by product category**, impacting the quality of revenue.
 3. **Regional and channel performance differs**, suggesting the need for targeted strategies rather than one-size-fits-all decisions.
 
----
 
 ## Insights Deep Dive
 
@@ -87,7 +103,7 @@ This dashboard enables leadership to quickly assess **performance health**, iden
 - YoY indicators reveal periods of slowing growth despite increasing absolute sales.
 - Monthly sales and profit trends show divergence in certain periods, highlighting **margin pressure risks**.
 
----
+
 
 ### Channel Performance & Growth Momentum
 
@@ -97,7 +113,6 @@ This dashboard enables leadership to quickly assess **performance health**, iden
 
 This reinforces the importance of separating **scale (size)** from **momentum (growth)** when evaluating channel performance.
 
----
 
 ### Product Category Contribution & Profitability
 
@@ -105,7 +120,6 @@ This reinforces the importance of separating **scale (size)** from **momentum (g
 - **Profit Margin % analysis** reveals meaningful differences across product categories, with some lower-revenue categories delivering stronger margins.
 - High revenue does not always correlate with high profitability, highlighting opportunities for **product mix and pricing optimization**.
 
----
 
 ### Geographic (Zone) Performance
 
@@ -113,7 +127,7 @@ This reinforces the importance of separating **scale (size)** from **momentum (g
 - Certain zones exhibit high volume but comparatively lower revenue, suggesting **pricing or mix effects**.
 - Geographic disparities indicate potential for **localized sales and pricing strategies**.
 
----
+
 
 ## Recommendations
 
@@ -151,3 +165,5 @@ This project demonstrates how combining **time intelligence, growth diagnostics,
 
 **Rofiat Adebayo**  
 Data Analyst | Business Intelligence | Analytics & Insights
+Connect with me: https://www.linkedin.com/in/rofiat-adebayo/
+Contact: 07066609682
