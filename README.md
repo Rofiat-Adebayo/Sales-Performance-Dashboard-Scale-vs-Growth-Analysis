@@ -165,5 +165,7 @@ This project demonstrates how combining **time intelligence, growth diagnostics,
 
 **Rofiat Adebayo**  
 Data Analyst | Business Intelligence | Analytics & Insights
+
 Connect with me: https://www.linkedin.com/in/rofiat-adebayo/
+
 Contact: 07066609682
